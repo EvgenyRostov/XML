@@ -1,17 +1,20 @@
-ID - A-BR-9
-Title - Переход на сайт (ссылка на сайт)  через Play Market
-Project - Сайт торговой площадки
-Steps - 1. Открыть приложение
-        2. Перейти в раздел Settings
-        3. Нажать More apps, перейти в Play Market для оценки приложения торговой площадки  
-        4. Раскрыть описание
-        5. Скрол вниз до конца описания
-        6. В строке More details: кликнуть по ссылке (ссылка на сайт)
-Enviroment - Mobile: Huawei p20 Android 9
-Actual result - Осуществляется переход на сайт на несуществующую страницу c фоном Ошибка 404 и надписью Page not found и с кликабельной кнопкой go to homepage
-Expected result - Переход на сайт в раздел безопасности
-Severity - Trivial
-Priority - low
-Status - Open
-Author - Евгений Анатольевич
-Attachments - ссылка на картинку или видео с багом
+<root>
+        <ID>A-BR-9</ID>
+        <Title>Переход на сайт (ссылка на сайт)  через Play Market</Title>
+        <Project>Сайт торговой площадки</Project>
+        <STR>    1. Открыть приложение
+                 2. Перейти в раздел Settings
+                 3. Нажать More apps, перейти в Play Market для оценки приложения торговой площадки  
+                 4. Раскрыть описание
+                 5. Скрол вниз до конца описания
+                 6. В строке More details: кликнуть по ссылке (ссылка на сайт)
+        </STR>
+        <Enviroment>Mobile: Huawei p20 Android 9</Enviroment>
+        <Actual result>Осуществляется переход на сайт на несуществующую страницу c фоном Ошибка 404 и надписью Page not found и с кликабельной кнопкой go to homepage</Actual result>
+        <Expected result>Переход на сайт в раздел безопасности</Expected result>
+        <Severity>Trivial</Severity>
+        <Priority>low</Pririty>
+        <Status>Open</Status>
+        <Author>Евгений Анатольевич</Author>
+        <Attachments>ссылка_на_картинку_или_видео_с_багом</Attachments>
+</root>
